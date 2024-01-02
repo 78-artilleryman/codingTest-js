@@ -1,1 +1,4 @@
 node_modules
+example.txt
+package.json
+package.lock.json
